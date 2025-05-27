@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <item>
+            <title>Alus HOEGAARDEN, 4,9 %, 0,5 l</title>
+            <link>https://www.rimi.lt/e-parduotuve/lt/produktai/alkoholiniai-ir-nealkoholiniai-gerimai/alus/kitu-saliu-alus-ir-alaus-kokteiliai/alus-hoegaarden-4-9-0-5-l/p/1364025</link>
+            <description>Unikalus, autentiškas belgiškas kvietinis alus, kurio aludarystės tradicija siekia 1445 m. Verdamas itin sudėtingu būdu, naudojant kviečius, apelsinų žieveles ir kalendrą. Po viršutinės fermentacijos cisternose yra nefiltruotas supilamas į butelius ir toliau brandinamas juose.</description>
+            <g:id>1364025</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_1364025_PCE_LT</g:image_link>
+            <g:google_product_category>produktai &gt; alkoholiniai-ir-nealkoholiniai-gerimai &gt; alus &gt; kitu-saliu-alus-ir-alaus-kokteiliai</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>2.39 EUR</g:price>
+            <g:brand>Hoegaarden</g:brand>
+            <g:condition>new</g:condition>
+            <g:gtin>4779039700682</g:gtin>
+        </item>
+        <item>
+            <title>Likeris DE KUYPER CURACAO BLUE, 20 %, 0,5 l</title>
+            <link>https://www.rimi.lt/e-parduotuve/lt/produktai/alkoholiniai-ir-nealkoholiniai-gerimai/trauktine-ir-likeris/likeris-de-kuyper-curacao-blue-20-0-5-l/p/7220825</link>
+            <description>De Kuyper Blue Curacao likeris gaminamas distiliuojant Curacao vaisių.</description>
+            <g:id>7220825</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_7220825_PCE_LT</g:image_link>
+            <g:google_product_category>produktai &gt; alkoholiniai-ir-nealkoholiniai-gerimai &gt; trauktine-ir-likeris</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>14.79 EUR</g:price>
+            <g:brand>De Kuyper</g:brand>
+            <g:condition>new</g:condition>
+            <g:gtin>8710625514203</g:gtin>
+        </item>
+        <item>
+            <title>Spiritinis gėrimas OAKHEART, 35 %, 0,7 l</title>
+            <link>https://www.rimi.lt/e-parduotuve/lt/produktai/alkoholiniai-ir-nealkoholiniai-gerimai/romas/spiritinis-gerimas-oakheart-35-0-7-l/p/7022110</link>
+            <description>Sodraus ir pikantiško skonio OAKHEART sumaniai pagamino Maestros de Ron BACARDI, naudodami labai anglytas ąžuolo statines, suteikiančias unikalų dūmų skonį, paskui filtruodami per anglis ir galiausiai pagardindami slaptu prieskonių mišiniu. Sodrūs, intensyvaus, nepastovaus charakterio vanilės ir karamelės aromatai suteikia saldų, aštrų poskonį.</description>
+            <g:id>7022110</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_7022110_PCE_LT</g:image_link>
+            <g:google_product_category>produktai &gt; alkoholiniai-ir-nealkoholiniai-gerimai &gt; romas</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>19.99 EUR</g:price>
+            <g:brand>Oakheart</g:brand>
+            <g:condition>new</g:condition>
+            <g:gtin>5010677740036</g:gtin>
+        </item>
+    </channel>
+</rss>
