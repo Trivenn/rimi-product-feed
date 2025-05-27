@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <item>
+            <title>Õlu Saku Pilsner 4,2%vol 0,5l pudel</title>
+            <link>https://www.rimi.ee/epood/et/tooted/alkohol/olu/hele-olu/olu-saku-pilsner-4-2-vol-0-5l-pudel/p/1355536</link>
+            <description>Saku Pilsner on klassikaline pilsneri tüüpi hele õlu – meeldivalt humalane karge hele õlu. Pilsneri tüüpi õlle pruulimisele panid aluse Tšehhi õllemeistrid mõnisada aastat tagasi, tänaseks on see kõige populaarsem õllesort maailmas. Saku Pilsner sobib ideaalselt kargeks värskenduseks kuumal suvepäeval ja mehiseks janukustutajaks toidulauale. Pruulitud veest, odralinnastest ja humalast Saku oma pärmiga. Humalase mekiga karge janukustutaja.</description>
+            <g:id>1355536</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_1355536_PCE_EE</g:image_link>
+            <g:google_product_category>tooted &gt; alkohol &gt; olu &gt; hele-olu</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>1.49 EUR</g:price>
+            <g:brand>Saku</g:brand>
+            <g:condition>new</g:condition>
+            <g:gtin>4740019015799</g:gtin>
+        </item>
+        <item>
+            <title>Rumm Irie Trinidad &amp; Tobago 40%vol 0,7l</title>
+            <link>https://www.rimi.ee/epood/et/tooted/alkohol/kange-alkohol/rumm/rumm-irie-trinidad-tobago-40-vol-0-7l/p/7239730</link>
+            <description>None</description>
+            <g:id>7239730</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_7239730_PCE_EE</g:image_link>
+            <g:google_product_category>tooted &gt; alkohol &gt; kange-alkohol &gt; rumm</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>32.99 EUR</g:price>
+            <g:brand>Irie</g:brand>
+            <g:condition>new</g:condition>
+            <g:gtin>3574510012657</g:gtin>
+        </item>
+    </channel>
+</rss>

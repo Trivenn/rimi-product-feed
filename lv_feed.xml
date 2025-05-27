@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+    <channel>
+        <item>
+            <title>140583</title>
+            <link>https://www.rimi.lv/e-veikals/lv/p/140583</link>
+            <description>None</description>
+            <g:id>140583</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_140583_PCE_LT</g:image_link>
+            <g:google_product_category>produkti</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>0.00 EUR</g:price>
+            <g:condition>new</g:condition>
+            <g:gtin>4770179116845</g:gtin>
+        </item>
+        <item>
+            <title>140584</title>
+            <link>https://www.rimi.lv/e-veikals/lv/p/140584</link>
+            <description>None</description>
+            <g:id>140584</g:id>
+            <g:image_link>https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_140584_PCE_LT</g:image_link>
+            <g:google_product_category>produkti</g:google_product_category>
+            <g:availability>out of stock</g:availability>
+            <g:price>0.00 EUR</g:price>
+            <g:condition>new</g:condition>
+            <g:gtin>4770179117521</g:gtin>
+        </item
+    </channel>
+</rss>
